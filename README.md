@@ -28,7 +28,7 @@ git clone https://github.com/Adedeji2563/spambot
 ## Install in Windows with Gitbash
 You need to Install Nodejs and Git on your Device
 ```bash
-git clone https://github.com/Adedeji2563/spambot.gi
+git clone https://github.com/Adedeji2563/spambot
 ```
 
 ## Run shadow
